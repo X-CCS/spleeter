@@ -15,3 +15,6 @@ spleeter separate -i ./wav/fd1f4f0f01bba042579ee1a7de4679e7.wav -p spleeter:2ste
 # 参考
 + [人声提取工具Spleeter安装教程（Linux）](https://zhuanlan.zhihu.com/p/149944571)
 + [音频处理之人声提取：分离音频背景声，过滤空白](https://zhuanlan.zhihu.com/p/103626813)
+
+
+aunoise /Users/ccs/Desktop/myRepo/spleeter/fd1f4f0f01bba042579ee1a7de4679e7/vocals.wav ./ [wav]
